@@ -5,3 +5,9 @@ __pycache__/
 .env
 *.db
 *.sqlite3
+
+# Capstone source instructions and report-generator scripts
+"Capstone Hands-on 1_ NetPulse - Network Monitoring Architecture.docx"
+NetPulse_Copilot_Step_by_Step_Instructions-v2.docx
+create_complete_project_report.py
+generate_project_documents.py
